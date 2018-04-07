@@ -1,8 +1,9 @@
 import React from 'react';
+import FeatureWrapper from '../home/featureWrapper';
 
 const BootCamp = () => {
     return(
-        <div>boot</div>
+        <FeatureWrapper />
     )
 }
 

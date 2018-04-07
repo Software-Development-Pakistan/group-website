@@ -17,6 +17,7 @@ class App extends Component {
                     <Route path='/about' component={About}/>
                     <Route path='/programs/opensourcedevelopment' component={OpenSourceDevelopment}/>
                     <Route path='/programs/bootcamp' component={BootCamp}/>
+                    <Route path='/programs/bootcamp' component={BootCamp}/>
                 </Switch>
                 <Footer/>
             </div>
