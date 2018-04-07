@@ -14,8 +14,8 @@ const Header = () => {
                         <li>
                             <a href="#" className="icon fa-bar-chart-o"><span>Programs</span></a>
                             <ul>
-                                <li><a href="#">Open Source Development</a></li>
-                                <li><a href="#">Bootcamps</a></li>
+                                <li><a href="/programs/opensourcedevelopment">Open Source Development</a></li>
+                                <li><a href="/programs/bootcamp">Bootcamps</a></li>
                                 <li>
                                     <a href="#">Programming Tutorials</a>
                                     <ul>
