@@ -1,0 +1,32 @@
+{
+  "home": {
+    "title": "Home",
+    "body": {
+      "html": {
+        "wholeBody": "<div>About Us! We are your thoku</div>"
+      }
+    },
+    "assets": {
+      "imageUrls": [
+        {
+          "slider1": "image_url"
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "body": {
+      "html": {
+        "wholeBody": "<div>About Us! We are your thoku</div>"
+      }
+    },
+    "assets": {
+      "imageUrls": [
+        {
+          "slider1": "image_url"
+        }
+      ]
+    }
+  }
+}
