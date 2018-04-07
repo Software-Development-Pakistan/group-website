@@ -2510,6 +2510,7 @@
     text-transform: uppercase;
     color: #777;
     font-weight: 400;
+	margin:2%;
 }
 .motive-text {
     text-transform: none;
@@ -2517,5 +2518,15 @@
 }
 
 .motive-wrapper {
-    border: none !important;
+	position: relative;
+	overflow: hidden;
+	background: #fff;
+	color: #fff;
+	text-align: center;
+	border-bottom: solid 2px #e5e5e5;
+	padding-bottom:2%;
+}
+
+.motive-wrapper p {
+	text-align: center;
 }
