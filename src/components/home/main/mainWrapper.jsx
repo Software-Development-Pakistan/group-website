@@ -5,8 +5,8 @@ import SideBarWrapper from './sidebarWrapper';
 const MainWrapper = () => {
     return (
         <div id="main-wrapper">
-            <div id="main" class="container">
-                <div class="row">
+            <div id="main" className="container">
+                <div className="row">
                     <ContentWrapper/>
                     <SideBarWrapper/>
                 </div>

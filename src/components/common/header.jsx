@@ -13,7 +13,7 @@ const Header = () => {
                         <li><a className="icon fa-home" href="/"><span>{navigationLinks.home}</span></a></li>
                         <li><a className="icon fa-home" href="/about"><span>{navigationLinks.about}</span></a></li>
                         <li>
-                            <a href="#" class="icon fa-bar-chart-o"><span>Programs</span></a>
+                            <a href="#" className="icon fa-bar-chart-o"><span>Programs</span></a>
                             <ul>
                                 <li><a href="#">Open Source Development</a></li>
                                 <li><a href="#">Bootcamps</a></li>

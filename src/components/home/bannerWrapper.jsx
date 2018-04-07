@@ -3,8 +3,8 @@ import React from 'react';
 const BannerWrapper = () => {
     return (
         <div id="banner-wrapper">
-            <div class="inner">
-                <section id="banner" class="container">
+            <div className="inner">
+                <section id="banner" className="container">
                 </section>
             </div>
         </div>
