@@ -27,7 +27,7 @@ const Header = () => {
                                 </li>
                             </ul>
                         </li>
-                        <li><a className="icon fa-retweet" href="right-sidebar.html"><span>donate</span></a></li>
+                        <li><a className="icon fa-retweet" href="right-sidebar.html"><span>Donate</span></a></li>
                         <li><a className="icon fa-sitemap" href="no-sidebar.html"><span>Get Involved</span></a></li>
                     </ul>
                 </nav>

@@ -11,7 +11,7 @@ const FeatureWrapper = () => {
                     <div className="4u 12u(mobile)">
 
                         <section>
-                            <a href="#" className="image featured"><img src="images/pic01.jpg" alt=""/></a>
+                            <a href="#" className="image featured"><img src={window.location.origin + '/images/pic01.jpg'} alt=""/></a>
                             <header>
                                 <h3>Okay, so what is this?</h3>
                             </header>
@@ -25,7 +25,7 @@ const FeatureWrapper = () => {
                     <div className="4u 12u(mobile)">
 
                         <section>
-                            <a href="#" className="image featured"><img src="images/pic02.jpg" alt=""/></a>
+                            <a href="#" className="image featured"><img src={window.location.origin + '/images/pic02.jpg'} alt=""/></a>
                             <header>
                                 <h3>Nice! What is HTML5 UP?</h3>
                             </header>
@@ -40,7 +40,7 @@ const FeatureWrapper = () => {
                     <div className="4u 12u(mobile)">
 
                         <section>
-                            <a href="#" className="image featured"><img src="images/pic03.jpg" alt=""/></a>
+                            <a href="#" className="image featured"><img src={window.location.origin + '/images/pic03.jpg'} alt=""/></a>
                             <header>
                                 <h3>Skel? What's that?</h3>
                             </header>
