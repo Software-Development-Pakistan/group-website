@@ -3,15 +3,15 @@ import React from 'react';
 const FeatureWrapper = () => {
     return (
         <div id="features-wrapper">
-            <section id="features" class="container">
+            <section id="features" className="container">
                 <header>
                     <h2>Gentlemen, behold! This is <strong>Strongly Typed</strong>!</h2>
                 </header>
-                <div class="row">
-                    <div class="4u 12u(mobile)">
+                <div className="row">
+                    <div className="4u 12u(mobile)">
 
                         <section>
-                            <a href="#" class="image featured"><img src="images/pic01.jpg" alt=""/></a>
+                            <a href="#" className="image featured"><img src="images/pic01.jpg" alt=""/></a>
                             <header>
                                 <h3>Okay, so what is this?</h3>
                             </header>
@@ -22,10 +22,10 @@ const FeatureWrapper = () => {
                         </section>
 
                     </div>
-                    <div class="4u 12u(mobile)">
+                    <div className="4u 12u(mobile)">
 
                         <section>
-                            <a href="#" class="image featured"><img src="images/pic02.jpg" alt=""/></a>
+                            <a href="#" className="image featured"><img src="images/pic02.jpg" alt=""/></a>
                             <header>
                                 <h3>Nice! What is HTML5 UP?</h3>
                             </header>
@@ -37,10 +37,10 @@ const FeatureWrapper = () => {
                         </section>
 
                     </div>
-                    <div class="4u 12u(mobile)">
+                    <div className="4u 12u(mobile)">
 
                         <section>
-                            <a href="#" class="image featured"><img src="images/pic03.jpg" alt=""/></a>
+                            <a href="#" className="image featured"><img src="images/pic03.jpg" alt=""/></a>
                             <header>
                                 <h3>Skel? What's that?</h3>
                             </header>
@@ -52,8 +52,8 @@ const FeatureWrapper = () => {
 
                     </div>
                 </div>
-                <ul class="actions">
-                    <li><a href="#" class="button icon fa-file">Tell Me More</a></li>
+                <ul className="actions">
+                    <li><a href="#" className="button icon fa-file">Tell Me More</a></li>
                 </ul>
             </section>
         </div>

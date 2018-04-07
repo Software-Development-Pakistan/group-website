@@ -1,9 +1,14 @@
 import React from 'react';
-import FeatureWrapper from './featureWrapper.jsx'
-
+import FeatureWrapper from './featureWrapper';
+import BannerWrapper from './bannerWrapper';
+import MainWrapper from './main/mainWrapper';
 const Home = () => {
     return (
-        <FeatureWrapper />
+        <div>
+            <FeatureWrapper />
+            <BannerWrapper />
+            <MainWrapper/>
+        </div>
     );
 }
 
