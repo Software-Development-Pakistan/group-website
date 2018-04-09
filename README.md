@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is the repository for software development Pakistan's website (http://www.softdevpk.com).
 
+## Content
+- [Requirements](#requirements)
+- [Running the project locally](#running-the-project-locally)
+- [How to contribute](#how-to-contribute)
+- [Communication channels](#communication-channels)
+
 ## Requirements
 You have to have the following installed in your computer in order to work with the application locally.
 - [Node](https://nodejs.org/en/download/) ([NVM](https://github.com/creationix/nvm) is recommended)
@@ -13,7 +19,7 @@ You have to have the following installed in your computer in order to work with 
 - Install dependencies: `npm install`
 - Start the project: `npm start`
 
-## Contribution
+## How to contribute
 - Pick an issue from [issues list](https://github.com/Software-Development-Pakistan/group-website/issues).
 - Checkout to a new branch `git checkout -b <branch-name>`
 - Start working on the project, fix the issue, ask for help from the channels below if you need any.
